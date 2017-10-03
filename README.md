@@ -7,7 +7,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/Gusn8/StudyJam_II_Intents.git
+>     $ git clone https://github.com/GhenesisZul/CustomViews_Twitter.git
 
 Dentro de Android Studio:
 
