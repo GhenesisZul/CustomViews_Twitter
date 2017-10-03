@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">twitter</string>
+    <string name="texto1">Welcome to Twitter</string>
+    <string name="texto2">Get real - time updates about what\nmatters to you</string>
+    <string name="boton1">Sign up</string>
+    <string name="boton2">Log in</string>
+</resources>
